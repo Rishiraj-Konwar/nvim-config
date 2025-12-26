@@ -16,7 +16,7 @@ return {
 						border = "rounded", -- Options: "none", "single", "double", "rounded", "solid", "shadow"
 						width = 35,
 						height = 25,
-						row = 4,
+						row = 2,
 						col = math.floor(screen_w * 0.80),
 					},
 				},
