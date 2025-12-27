@@ -7,7 +7,7 @@ return {
 	config = function()
 		require("ibl").setup({
 			indent = { char = "▎" }, -- Thinner line
-			scope = { enabled = true }, -- Highlight active block
+			scope = { enabled = true, show_start = false, show_end = false}, -- Highlight active block
 		})
 	end,
 }
