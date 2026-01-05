@@ -15,9 +15,9 @@ return {
 						relative = "editor",
 						border = "rounded", -- Options: "none", "single", "double", "rounded", "solid", "shadow"
 						width = 35,
-						height = 25,
-						row = 2,
-						col = math.floor(screen_w * 0.80),
+						height = 30,
+						row = 4,
+						col = math.floor(screen_w * 0.78),
 					},
 				},
 				relativenumber = true,
