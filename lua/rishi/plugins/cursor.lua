@@ -22,6 +22,9 @@ return {
   config = function()
     require("smear_cursor").setup({
       distance_stop_animating_vertical_bar = 0.1,
+      stiffness = 0.2,
+      trailing_stiffness = 0.49,
+      never_draw_over_target = false
     })
   end
 }
