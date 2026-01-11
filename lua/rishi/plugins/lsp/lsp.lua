@@ -26,6 +26,7 @@ return {
 			"jsonls",
 			"eslint",
 			"graphql",
+      "intelephense"
 		}
 		for _, server in ipairs(servers) do
 			vim.lsp.enable(server)

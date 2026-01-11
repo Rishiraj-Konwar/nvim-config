@@ -24,6 +24,7 @@ return {
   "emmet_ls",
   "jsonls",
   "eslint",
+  "intelephense",
 
   -- Backend / API / Full-stack
   "graphql",
