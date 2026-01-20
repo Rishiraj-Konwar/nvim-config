@@ -16,9 +16,9 @@ vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
   spec = {
-    {import = "rishi.plugins"}, 
+    {import = "rishi.plugins"},
     {import = "rishi.plugins.lsp"}
-  }, 
+  },
   checker = {
     enabled = true,
     notfify = false,
