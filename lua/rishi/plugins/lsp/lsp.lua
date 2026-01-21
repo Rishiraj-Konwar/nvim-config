@@ -44,5 +44,5 @@ return {
 				max_width = 120, -- Sets a maximum width
 			})
 		end, {desc = "Hover documentation"})
-	end,
+  end,
 }

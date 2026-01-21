@@ -13,6 +13,9 @@ return {
 	},
 	config = function()
 		require("noice").setup({
+      presets = {
+        lsp_doc_border = true
+      },
       cmdline = {
         format = {
           cmdline = {title = "", icon = ":"}
