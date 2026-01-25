@@ -28,6 +28,7 @@ return{
         "nginx",
         "sql",
         "typescript",
+        "tsx",
         "c"
       },
       incremental_selection = {
